@@ -13,8 +13,8 @@
   <parent>
     <groupId>org.jboss.bpm</groupId>
     <artifactId>gwt-console-parent</artifactId>
-    <version>2.3.8.Final</version>
     <relativePath>../pom.xml</relativePath>
+    <version>3.0.1-SNAPSHOT</version>
   </parent>
 
   <modules>
